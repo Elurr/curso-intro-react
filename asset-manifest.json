@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curso-intro-react/static/css/main.fda6586e.css",
+    "main.js": "/curso-intro-react/static/js/main.1c2b1915.js",
+    "index.html": "/curso-intro-react/index.html",
+    "main.fda6586e.css.map": "/curso-intro-react/static/css/main.fda6586e.css.map",
+    "main.1c2b1915.js.map": "/curso-intro-react/static/js/main.1c2b1915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda6586e.css",
+    "static/js/main.1c2b1915.js"
+  ]
+}
